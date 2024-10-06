@@ -65,4 +65,4 @@ Summary of results:
 - MAE: 2636.011545
 - R² Score: 0.847888
 
-  Plots can be viwed in the .ipynb file
+Plots can be viwed in the .ipynb file
